@@ -9,5 +9,5 @@ A Java game engine.
 </p>
 
 <p align="center">
-  <a title="Discord" href="https://discord.gg/pxrBmy4" ><img src="https://img.shields.io/discord/857299210529407068.svg?style=for-the-badge" /></a>
+  <a title="Discord" href="https://gabriel-aplok.github.io/discord/" ><img src="https://img.shields.io/discord/857299210529407068.svg?style=for-the-badge" /></a>
 </p>
