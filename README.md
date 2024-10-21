@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://kolpa-engine.github.io">
-    <img alt="Kolpa" width="200px" src="https://avatars.githubusercontent.com/u/110259631?s=200&v=4">
+    <img alt="Kolpa" width="200px" src="https://github.com/kolpa-engine.png">
   </a>
 </p>
 
 <p align="center">
-A Java game engine.
+A Kotlin Multiplatform game engine.
 </p>
 
 <p align="center">
